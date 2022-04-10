@@ -1,0 +1,120 @@
+/* Body and footer colors, fonts, and spacing */
+h1 {
+  color: #525E75;
+  font-family: 'Satisfy', cursive;
+  font-size: 3.5rem;
+}
+
+h3 {
+  color: grey;
+  text-align: center;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+}
+
+.body {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Roboto', sans-serif;
+  padding: 2rem 0;
+}
+
+.tan-section {
+  background-color: #F5EEDC;
+  color: black;
+}
+
+.green-section {
+  background-color: #C0D8C0;
+  color: black;
+}
+
+.header {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.learning-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.learning-data {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Nav bar styles */
+.nav-link {
+  text-align: center;
+}
+
+.container-fluid {
+  background-color: #ECB390;
+}
+
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Footer styles */
+.contact-info {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.contact-table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-data {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Profile picture styles */
+.profile-pic:hover {
+  opacity: .5;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 30%;
+}
+
+/* button styles */
+.navbar {
+  position: relative;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.center-button {
+  position: relative;
+  margin-top: 1rem;
+  left: auto;
+  right: auto;
+}
+
+/* Dark mode styles */
+.darkModeThemeDark {
+  background-color: black;
+  color: white;
+}
+
+.pressed {
+  background-color: white;
+  color: black;
+}
